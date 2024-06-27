@@ -1,0 +1,33 @@
+.donate{
+    display: flex;
+    align-items: center;
+    margin: 1em 0;
+    gap: 10px;
+}
+.image img{
+    width: 400px;
+}
+.Palastine h1{
+    color: beige;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.Palastine h1:hover{
+     color: red;
+}
+.price{
+    color: beige;
+}
+.buttons button{
+color:gray;
+}
+.buttons button:hover{
+    color:beige;
+    background-color: gray;
+}
+.paragraphs p{
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraphs p:hover{
+    color: red;
+}
